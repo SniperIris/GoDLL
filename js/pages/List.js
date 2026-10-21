@@ -8,9 +8,9 @@ import LevelAuthors from "../components/List/LevelAuthors.js";
 
 const roleIconMap = {
     Owner: "crown",
-    Editor1: "editor1",
-    Editor2: "editor2",
-    Editor3: "editor3",
+    editor1: "editor1",
+    editor2: "editor2",
+    editor3: "editor3",
 };
 
 export default {
